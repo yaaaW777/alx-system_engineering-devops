@@ -1,1 +1,1 @@
-"(Ôo)'
+/etc/passwd
