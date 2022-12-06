@@ -1,2 +1,2 @@
 #!/bin/bash
-epr "bin" /etc/passwd
+pr  "bin" /etc/passwd
